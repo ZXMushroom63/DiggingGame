@@ -5,3 +5,11 @@ Build/
 Saved/Logs/
 Saved/Crashes/
 *wakatime.ini
+Saved/Config/CrashReportClient
+Saved/Cooked/
+Saved/Temp/
+Saved/MaterialStats/
+Saved/Shaders/
+Saved/MaterialStatsDebug/
+Saved/StagedBuilds/
+Saved/Autosaves/
