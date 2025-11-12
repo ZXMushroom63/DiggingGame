@@ -1,12 +1,32 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{6BF91CF8-4885-FF01-E7D7-DF88BFC26675}",
+	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
 			"Name": "WakatimeIntegration",
 			"Enabled": true
+		},
+		{
+			"Name": "PhysXVehicles",
+			"Enabled": false
+		},
+		{
+			"Name": "ActorLayerUtilities",
+			"Enabled": false
+		},
+		{
+			"Name": "ActorSequence",
+			"Enabled": false
+		},
+		{
+			"Name": "EnvironmentQueryEditor",
+			"Enabled": false
+		},
+		{
+			"Name": "AISupport",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
