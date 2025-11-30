@@ -13,6 +13,9 @@
 		"Linux",
 		"Mac",
 		"Windows",
-		"WindowsNoEditor"
+		"WindowsNoEditor",
+		"Android",
+		"IOS",
+		"LinuxNoEditor"
 	]
 }
