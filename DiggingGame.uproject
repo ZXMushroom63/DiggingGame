@@ -16,6 +16,7 @@
 		"WindowsNoEditor",
 		"Android",
 		"IOS",
-		"LinuxNoEditor"
+		"LinuxNoEditor",
+		"MacNoEditor"
 	]
 }
