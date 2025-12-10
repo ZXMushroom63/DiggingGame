@@ -2,9 +2,9 @@
 
 Junk Graveyard is a small indie-horror game about metal detecting for a profit to clear the dig site of its valuables. Made for [Hack Club Midnight](https://midnight.hackclub.com).
 
-Release Date: Before 2026 Probably\
+Release Date: 2 December, 2025\
 Clanker Usage: None\
-Target Platforms: Windows, Linux if I get the cross-compiling toolchain to quit screwing around\
+Target Platforms: Windows, Linux\
 Itch.io: [https://zxmushroom63.itch.io/junk-graveyard](https://zxmushroom63.itch.io/junk-graveyard)
 
 ## Download
