@@ -10,7 +10,7 @@ Itch.io: [https://zxmushroom63.itch.io/junk-graveyard](https://zxmushroom63.itch
 ## Download
 See the [itch.io page](https://zxmushroom63.itch.io/junk-graveyard)'s download section
 
-## Build Imstructions
+## Build Instructions
 1. Download Unreal Engine 4.27 for your system
 2. Download / clone this repository
   - Use `--depth=1` to clone, there are large files in commit history
